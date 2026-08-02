@@ -19,7 +19,7 @@ import groovy.json.JsonBuilder
 class ApiHelper {
 
     /**
-     * PRODUCER: mengirim POST request (membuat resource baru) ke REST API.
+     * PRODUCER: mengirim POST request (membuat resource baru) ke REST API
      * @param endpoint URL endpoint API
      * @param bodyMap  Map yang akan dijadikan JSON body
      * @param headersMap Map header tambahan (opsional)
